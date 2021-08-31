@@ -33,5 +33,6 @@ h1 {
 }
 
 .boxes {
-    background: pink;
+    background-color: pink;
+    background: lightblue;
 }
