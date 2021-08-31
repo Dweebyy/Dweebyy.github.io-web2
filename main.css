@@ -4,6 +4,10 @@
 }
 
 #logo {
-    height: 540px;
-    width: 280px;
+    height: 340px;
+    width: 180px;
+}
+
+h1 {
+    background-color: blue;
 }
