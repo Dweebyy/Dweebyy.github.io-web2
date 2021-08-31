@@ -23,6 +23,7 @@ h1 {
     background-color: lightblue;
     padding: 5px 5px 5px 5px;
     margin: 5px -50px 5px 0px;
+    text-align: center;
 }
 
 .searchbar {
