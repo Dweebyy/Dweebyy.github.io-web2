@@ -1,6 +1,10 @@
 :root {
-    --site-background: green;
+    --site-background: gray;
 
+}
+
+html {
+    background: var(--site-background);
 }
 
 #myImage {
