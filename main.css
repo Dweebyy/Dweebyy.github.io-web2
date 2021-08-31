@@ -3,9 +3,9 @@
 
 }
 
-#logo {
-    height: 340px;
-    width: 180px;
+#myImage {
+    height: auto;
+    max-width: 180px;
 }
 
 h1 {
