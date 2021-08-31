@@ -15,3 +15,10 @@ h1 {
 .lists {
     background-color: lightblue;
 }
+
+.searchbar {
+    position: relative;
+    width: 50%;
+    left: 25%;
+    top: 350px;
+}
