@@ -1,5 +1,5 @@
 :root {
-    --site-background: gray;
+    --site-background: green;
 
 }
 
@@ -10,4 +10,8 @@
 
 h1 {
     background-color: blue;
+}
+
+.lists {
+    background-color: lightblue;
 }
