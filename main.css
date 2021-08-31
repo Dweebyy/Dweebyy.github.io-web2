@@ -16,7 +16,7 @@ html {
 
 h1 {
     background-color: lightblue;
-
+    font-family: Anton;
 }
 
 .lists {
@@ -30,4 +30,8 @@ h1 {
     width: 60%;
     left: 85%;
     top: -15px;
+}
+
+.boxes {
+    background: lightblue;
 }
