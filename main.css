@@ -1,0 +1,9 @@
+:root {
+    --site-background: gray;
+
+}
+
+#logo {
+    height: 540px;
+    width: 280px;
+}
