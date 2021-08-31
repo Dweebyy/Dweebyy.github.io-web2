@@ -8,22 +8,26 @@ html {
 }
 
 #myImage {
-    width: 180px;
+    position: sticky;
+    width: 200px;
+    left: 50%;
     
 }
 
 h1 {
-    background-color: blue;
+    background-color: lightblue;
+
 }
 
 .lists {
     background-color: lightblue;
     padding: 5px 5px 5px 5px;
+    margin: 5px -50px 5px 0px;
 }
 
 .searchbar {
     position: relative;
     width: 60%;
-    left: 80%;
-    top: 10px;
+    left: 85%;
+    top: -15px;
 }
